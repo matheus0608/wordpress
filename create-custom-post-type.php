@@ -5,7 +5,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;  
 }
 
-// CSS post type
+// CSS post type custom
 function prefix_post_type_css() { 
 	$labels = array(
 		'name' => __( 'CSS' ),
